@@ -1,7 +1,9 @@
 #include<stdio.h>
 #define FALSE 0
 #define TRUE 1
-
+/*
+  你这个程序的主要功能是什么？
+*/
 int main(){
     char nextChar;
     int gotI=FALSE;
