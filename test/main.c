@@ -2,7 +2,7 @@
 #define FALSE 0
 #define TRUE 1
 /*
-  你这个程序的主要功能是什么？
+  你这个程序的主要功能是什么？没收到最新版本啊~~
 */
 int main(){
     char nextChar;
