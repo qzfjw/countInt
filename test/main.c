@@ -9,6 +9,7 @@ int main(){
     int gotI=FALSE;
     int gotIN=FALSE;
     int count=0;
+    printf("程序功能:在输入的字符串中统计连续的int的出现次数\n");
     printf("enter your string:");
     while(nextChar!='\n'){
         scanf("%c",&nextChar);
